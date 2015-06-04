@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">组件</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawerlayout">drawerlayout</string>
+    <string name="search">搜索</string>
+    <string name="tabs">tabs</string>
+    <string name="satellite">satellite</string>
+    <string name="arcmenu">arcmenu</string>
+    <string name="viewpager">viewPager</string>
+    <string name="refresh">refresh</string>
+
+</resources>
