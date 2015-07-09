@@ -1144,6 +1144,7 @@ containing a value of this type.
         public static final int end=0x7f050013;
         public static final int expand_activities_button=0x7f05002a;
         public static final int expanded_menu=0x7f050030;
+        public static final int fragment_layout=0x7f050053;
         public static final int home=0x7f050014;
         public static final int homeAsUp=0x7f050005;
         public static final int icon=0x7f05002e;
@@ -1158,17 +1159,19 @@ containing a value of this type.
         public static final int id_viewpager=0x7f050052;
         public static final int ifRoom=0x7f05000a;
         public static final int image=0x7f05002b;
+        public static final int left=0x7f050054;
         public static final int left_bottom=0x7f05001b;
         public static final int left_drawer=0x7f050047;
+        public static final int left_listview=0x7f050055;
         public static final int left_top=0x7f05001a;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f05002d;
-        public static final int main_collect=0x7f050056;
-        public static final int main_copy=0x7f050057;
-        public static final int main_daddy=0x7f050058;
-        public static final int main_search=0x7f050053;
-        public static final int main_setting=0x7f050054;
-        public static final int main_share=0x7f050055;
+        public static final int main_collect=0x7f05005b;
+        public static final int main_copy=0x7f05005c;
+        public static final int main_daddy=0x7f05005d;
+        public static final int main_search=0x7f050058;
+        public static final int main_setting=0x7f050059;
+        public static final int main_share=0x7f05005a;
         public static final int middle=0x7f050012;
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
@@ -1177,7 +1180,9 @@ containing a value of this type.
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f050033;
         public static final int refresh=0x7f050043;
+        public static final int right=0x7f050056;
         public static final int right_bottom=0x7f05001d;
+        public static final int right_textview=0x7f050057;
         public static final int right_top=0x7f05001c;
         public static final int search_badge=0x7f050036;
         public static final int search_bar=0x7f050035;
@@ -1267,6 +1272,7 @@ containing a value of this type.
         public static final int tab_chat=0x7f030022;
         public static final int tab_find=0x7f030023;
         public static final int tabs_viewpager=0x7f030024;
+        public static final int test=0x7f030025;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
