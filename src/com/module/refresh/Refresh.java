@@ -34,7 +34,6 @@ public class Refresh extends Activity implements SwipeRefreshLayout.OnRefreshLis
 				mAdapter.notifyDataSetChanged();
 				mSwipeLayout.setRefreshing(false);
 				break;
-
 			}
 		};
 	};
